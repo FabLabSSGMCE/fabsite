@@ -1,0 +1,25 @@
+body {
+  margin-left: 10vh;
+  margin-right: 10vh;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  /* margin: 2vh; */
+}
+
+.header1 {
+  margin-right: 2vh;
+  /* margin-left: 2vh; */
+}
+
+.header2 {
+  display: flex;
+  align-items: center;
+  /* margin: 2vh; */
+}
+
+.header
+
+
